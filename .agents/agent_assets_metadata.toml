@@ -1,0 +1,16 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "xTxKErZK5amuUoBvJsUv1"
+uri = "file://.conversation/attached_assets/gct_homepage_1787506626246.html"
+type = "text"
+title = "Garden City Travel homepage with proper footer"
+description = "Added a full responsive footer with brand positioning, Explore and Partner navigation groups, a clear contact prompt, and a refined legal baseline."
+logical_id = "5d073075-b3f7-4d3d-880e-d46c32cba3dd"
+content_hash = "sha256:65baef24f9dbb533cfc461739e5ac67802a525c91a796b5ab6c9082600492184"
+size = 32266
+mtime_ms = 1787507293887
+storage_uri = "gcs://replit-rams-assets-riker/rams/assets/conversation:7a0ba069-368d-4007-a275-beca43dca7de/5d073075-b3f7-4d3d-880e-d46c32cba3dd/cd584ee8-808f-4c02-835a-eddf6a0737cf"
+storage_version_token = "1787507297537400"
+content_type = "text/html"
